@@ -1,0 +1,21 @@
+.footer {
+  background-color: brown;
+  text-align: center;
+}
+
+.carousel {
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.carousel img {
+  width: auto;
+}
+
+.btn-primary {
+  background-color: aqua;
+}
+
+.btn-primary:hover {
+  background-color: blue;
+}
